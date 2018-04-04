@@ -17,7 +17,7 @@ Individual winners at this circuit:
 | VET    |    3 |
 | HAM    |    2 |
 
-Podiums at this circuit:]
+Podiums at this circuit:
 
 | Driver | Podiums |
 | :----- | ---: |

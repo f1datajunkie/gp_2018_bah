@@ -1,6 +1,6 @@
 # FORMULA ONE Bahrain Grand Prix, 2018
 
-DataJunkie reports for the FORMULA 1 2018 BAHRAIN GRAND PRIX.
+DataJunkie reports for the FORMULA 1 GULF AIR BAHRAIN GRAND PRIX, 2018.
 
 
 ---

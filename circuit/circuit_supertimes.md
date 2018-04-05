@@ -9,12 +9,12 @@ We can draw on the notion of supertimes to derive two simple measures for compar
   - evolution of manufacturer competitive supertime for a circuit over the years;
   - evolution of manufacturer competitive supertime for each circuit over the course of a season.
 
-![](story_so_far_template_files/figure-gfm/supertimeCircuit-1.png)<!-- -->
+![](images/supertimeCircuit-1.png)<!-- -->
 
 
 We can also produce driver performance metrics based on the competitive supertime of each driver.
 
-![](story_so_far_template_files/figure-gfm/driverSupertimeCircuit-1.png)<!-- -->
+![](images/driverSupertimeCircuit-1.png)<!-- -->
 
 | code |  avstime | races |
 | :--- | -------: | ----: |

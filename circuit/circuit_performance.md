@@ -1,11 +1,8 @@
 ## Circuit Performance
 
-How well do drivers and constructors perform at the circuit? The *Driver
-Performance Chart* and *Constructor Performance Chart* show how drivers
-and constructors fare basd on a dummy points calculation in which a car
-scores a nominal 10 points for finishing first down to 1 point for
-finishing
-10th.
+How well do drivers and constructors perform at the circuit?
+
+The *Driver Performance Chart* and *Constructor Performance Chart* show how drivers and constructors fare based on points scored at the circuit. (Note that points schemes may change over the reporting period.)
 
 ![](images/driver_circuit_performance-1.png)<!-- -->
 

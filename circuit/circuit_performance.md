@@ -27,3 +27,9 @@ Podiums at this circuit:
 | BOT    |    1 |
 
 ![](images/team_circuit_performance-1.png)<!-- -->
+
+## Competitive Laptime Evolution
+
+Evolution of best competitive laptime over the years, based on the best laptimes recorded in either qualifying or the race.
+
+![](images/bestCompetitiveTimeCircuit-1.png)<!-- -->

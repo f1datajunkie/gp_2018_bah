@@ -115,6 +115,11 @@ Activity in Free Practice 1 took place as follows:
   - Max VERSTAPPEN completed 2 laps over 2 stints, with a longest run of
     1 laps
 
+### Long Runs
+
+Laptimes on long runs of 8 or more laps
+![](images/f1_2018_bah_P1-longruntimes-1.png)<!-- -->
+
 -----
 
 This website is unofficial and is not associated in any way with the

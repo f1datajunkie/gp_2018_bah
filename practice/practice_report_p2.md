@@ -114,6 +114,10 @@ Activity in Free Practice 2 took place as follows:
   - Fernando ALONSO completed 29 laps over 5 stints, with a longest run
     of 12 laps
 
+### Long Runs
+
+Laptimes on long runs of 8 or more laps
+![](images/f1_2018_bah_P2-longruntimes-1.png)<!-- -->
 
 -----
 

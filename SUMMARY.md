@@ -8,3 +8,4 @@
 * Free Practice
   * [Free Practice 1](practice/practice_report_p1.md)
   * [Free Practice 2](practice/practice_report_p2.md)
+  * [Free Practice 2](practice/practice_report_p3.md)

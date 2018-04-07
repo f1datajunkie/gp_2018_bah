@@ -9,3 +9,6 @@
   * [Free Practice 1](practice/practice_report_p1.md)
   * [Free Practice 2](practice/practice_report_p2.md)
   * [Free Practice 3](practice/practice_report_p3.md)
+  
+* [Qualifying](quali/README.md)
+    * [Quali report](quali/quali_report.md)

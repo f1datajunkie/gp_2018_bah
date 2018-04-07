@@ -59,7 +59,7 @@ follows:
 ### Cut-off Time Evolution
 
 The cut-off time in Q1 evolved as follows:
-![](images/f1_2018_bah-quali1_cutoff-1.png)<!-- -->
+![](images/f1_2018_bah-quali1_cutoff-2.png)<!-- -->
 
 ## Q2
 
@@ -68,7 +68,7 @@ The cut-off time in Q1 evolved as follows:
 ### Cut-off Time Evolution
 
 The cut-off time in Q2 evolved as follows:
-![](images/f1_2018_bah-quali2_cutoff-1.png)<!-- -->
+![](images/f1_2018_bah-quali2_cutoff-2.png)<!-- -->
 
 ## Q3
 
@@ -77,7 +77,7 @@ The cut-off time in Q2 evolved as follows:
 ### Front Row Cut-off Time Evolution
 
 The cut-off time in Q3 evolved as follows:
-![](images/f1_2018_bah-quali3_cutoff-1.png)<!-- -->
+![](images/f1_2018_bah-quali3_cutoff-2.png)<!-- -->
 
 -----
 
